@@ -1,7 +1,7 @@
 #code your solutions here
   perfect_10_recipe={}
   ingredients=[:almond_flour,:gluten_freewhole_oats,:kosher_salt,
-  :baking_powder:,:baking_soda:,:xanthan_gum:,
+  :baking_powder,:baking_soda,:xanthan_gum,
   :slivered_almonds,:lightly_toasted,
   :mini_dark_chocolate_chips,:olive_oil,:agave]
   measure=["2 cups","1 cup","1/2 tea spoon","1/4 teaspoon"
