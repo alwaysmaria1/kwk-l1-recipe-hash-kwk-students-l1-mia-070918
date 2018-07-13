@@ -4,8 +4,7 @@
   :baking_powder,:baking_soda,:xanthan_gum,
   :slivered_almonds,:lightly_toasted,
   :mini_dark_chocolate_chips,:olive_oil,:agave]
-  measure=["2 cups","1 cup","1/2 tea spoon","1/4 teaspoon"
-    ,"1/2 tea spoon","1/4 cup","3/4 cup","1/2 cup","1/4 cup"]
+  measure=["2 cups","1 cup","1/2 tea spoon","1/4 teaspoon","1/2 tea spoon","1/4 cup","3/4 cup","1/2 cup","1/4 cup"]
     counter=0
     while counter<measure.length
       perfect_10_recipe[ingredients[counter]]=
