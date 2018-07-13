@@ -8,7 +8,7 @@
     counter=0
     while counter<measure.length
       perfect_10_recipe[ingredients[counter]]=
-      [meaure[counter]]
+      [measure[counter]]
       counter =+1
     end
 
