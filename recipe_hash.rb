@@ -1,4 +1,17 @@
 #code your solutions here
+  perfect_10_recipe={}
+  ingredients=[:almond_flour,:gluten_freewhole_oats,:kosher_salt,
+  :baking_powder:,:baking_soda:,:xanthan_gum:,
+  :slivered_almonds,:lightly_toasted,
+  :mini_dark_chocolate_chips,:olive_oil,:agave]
+  measure=["2 cups","1 cup","1/2 tea spoon","1/4 teaspoon"
+    ,"1/2 tea spoon","1/4 cup","3/4 cup","1/2 cup","1/4 cup"]
+    counter=0
+    while counter<measure.length
+      perfect_10_recipe[ingredients[counter]]=
+      [meaure[counter]]
+      counter =+1
+    end
 
 #1. Create a hash called `perfect_10_recipe` that has the following data:
 #  - almond flour - 2 cups
